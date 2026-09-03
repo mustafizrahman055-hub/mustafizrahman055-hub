@@ -1,3 +1,5 @@
+<img width="1696" height="624" alt="banner pic" src="https://github.com/user-attachments/assets/cc6eaa1a-6286-4ab3-b891-137b7a637a71" />
+
 # ⚡ Hi, I'm MD. Mostafizur Rahman Morsalin
 
 Frontend Developer | CS Student @ DPI | Web & Tech Enthusiast
