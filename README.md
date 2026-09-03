@@ -6,20 +6,7 @@ Frontend Developer | CS Student @ DPI | Web & Tech Enthusiast
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/md-mostafizur-rahman-morsalin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mustafizrahman055@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://facebook.com/im.mursalin.rahman4" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
 
----
 
 ### 🚀 About Me
 
@@ -58,6 +45,21 @@ Frontend Developer | CS Student @ DPI | Web & Tech Enthusiast
 ### 🎨 Design
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ps,ai,figma" alt="design-tools" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/md-mostafizur-rahman-morsalin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mustafizrahman055@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://facebook.com/im.mursalin.rahman4" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
 
 ---
